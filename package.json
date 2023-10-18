@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@duckdb/duckdb-wasm": "^1.27.0",
-    "apache-arrow": "^13.0.0"
+    "apache-arrow": "^11.0.0"
   },
   "devDependencies": {
     "typescript": "^5.0.2",
